@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "binary.h": "c",
+        "adidas_helper.h": "c",
+        "cstdlib": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "type_traits": "c"
+    }
+}
